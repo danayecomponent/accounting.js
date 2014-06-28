@@ -1,12 +1,12 @@
 {
 	"name" : "accounting",
+	"repo" : "danayecomponent/accounting.js",
 	"description" : "number, money and currency parsing/formatting library",
-	"homepage": "https://github.com/soheil-allahpanah/accounting.js",
+	"version" : "0.3.2",
 	"keywords" : ["accounting", "number", "money", "currency", "format", "utilities"],
-	"author": "Joss Crowcroft <josscrowcroft@gmail.com> (http://www.josscrowcroft.com)",
-	"contributors" : [],
-	"dependencies" : {},
-	"repository" : {"type": "git", "url": "git://github.com/soheil-allahpanah/accounting.js.git"},
 	"main" : "accounting.js",
-	"version" : "0.3.2"
+	"scripts": ["accounting.js"],
+	"homepage": "https://github.com/danayecomponent/accounting.js",
+	"author": "Joss Crowcroft <josscrowcroft@gmail.com> (http://www.josscrowcroft.com)",
+	"dependencies" : {}
 }
