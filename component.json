@@ -2,7 +2,6 @@
 	"name" : "accounting",
 	"repo" : "danayecomponent/accounting.js",
 	"description" : "number, money and currency parsing/formatting library",
-	"version" : "0.3.2",
 	"keywords" : ["accounting", "number", "money", "currency", "format", "utilities"],
 	"main" : "accounting.js",
 	"scripts": ["accounting.js"],
